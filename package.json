@@ -1,0 +1,11 @@
+{
+  "name": "college-info-api",
+  "version": "1.0.0",
+  "description": "college info api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
