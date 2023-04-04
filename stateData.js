@@ -143,15 +143,10 @@ const scrapeData = async (state_name) => {
       }
     }
 
-    // console.log(headerValueObj);
-    // console.log(stateAllInfoValue);
-    // console.log(stateDataObj);
     return stateDataObj;
   } catch (error) {
     console.log(error);
   }
 };
-
-// scrapeData("Madhya_Pradesh");
 
 module.exports = scrapeData;
